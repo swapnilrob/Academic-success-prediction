@@ -130,5 +130,3 @@ Logistic Regression achieved the highest overall performance and handled class i
 
 - Course: CSE422 – Artificial Intelligence
 - Institution: BRAC University
-
-!
